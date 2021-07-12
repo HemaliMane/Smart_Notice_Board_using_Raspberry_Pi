@@ -1,1 +1,3 @@
 # Smart_Notice_Board_using_Raspberry_Pi
+Notice board could be a primary factor in any establishment or public places like bus stations, railway stations, colleges, malls etc. Sticking out numerous notices day to day could be a tough method. A separate person is needed to take care of this notice display. The system was designed and developed using the Internet of Things. This project is regarding advanced wireless notice board using raspberry pi. The objective of the project is to display the message on the notice board from anywhere and anytime, that even provides broadcast alerts to the target users.The Agent can trigger a notice to the notice board using Mobile App while the notice is displayed on a LCD screen. Notice can be in muptiple formate eg text or image etc.
+
